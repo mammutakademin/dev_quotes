@@ -12,6 +12,8 @@ All quotes are sourced from https://en.wikiquote.org
 
 List of software developers
 
-Linus Torvalds
-Martin Fowler
-Alan Kay
+- Linus Torvalds
+- Martin Fowler
+- Alan Kay
+- Larry Wall
+- Bjarne Stroustrup
